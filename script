@@ -1,1 +1,11 @@
-loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/76ab5c3a008cd2dd5d602be42889547e/raw/0dcbc4e13a0c1d2e9b81a9745ac94ac891160abd/Frage%2520Hub'))()
+if game.PlaceId == 286090429 then
+loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/38158c46db3c1f84c7acaea693c511e4/raw/eecc84499377bd7f1c2e36d2ece8b364c1feb0df/frage%2520hub%2520arsenal'))()
+end
+
+if game.PlaceId == 3527629287 then
+loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/4843830d3bcb213408f3225c8eb0708d/raw/0aa63a5f49b60034307564b18a1f5782c9eb994e/frage%2520hub%2520big%2520paintball'))()
+end
+
+if game.PlaceId == 662417684 then
+loadstring(game:HttpGet('https://pastebin.com/raw/jirJDNke'))()
+end
