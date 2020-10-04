@@ -9,3 +9,7 @@ end
 if game.PlaceId == 662417684 then
 loadstring(game:HttpGet('https://pastebin.com/raw/jirJDNke'))()
 end
+
+if game.PlaceId == 292439477 then
+loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/845e9501a41059704d336818bcc7f909/raw/be75c767fe7fe756085b16cf6bc941f54d179fa4/frage%2520hub%2520pf'))()
+end
