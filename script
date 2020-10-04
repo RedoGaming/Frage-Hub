@@ -17,3 +17,7 @@ end
 if game.PlaceId == 155615604 then
 loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/e1827efa77d7c00feb5d7874c56f4092/raw/433b7ff101be5a018575d576fcd500a94af2920b/frage%2520hub%2520prison%2520life'))()
 end
+
+if game.PlaceId == 301549746 then
+loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/9f12e3c8de2ebe3b08450ea492d2fe49/raw/979924e9736de6364869c707643ba9b455d3bdca/frage%2520hub%2520counter%2520blox'))()
+end
