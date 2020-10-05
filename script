@@ -22,6 +22,6 @@ if game.PlaceId == 301549746 then
 loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/9f12e3c8de2ebe3b08450ea492d2fe49/raw/979924e9736de6364869c707643ba9b455d3bdca/frage%2520hub%2520counter%2520blox'))()
 end
 
-if game.PlaceId == 35397735 then
+if game.PlaceId == 1450425732 then
 loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/84963d41eec5e44788c6812984111397/raw/6718cc615ed2931390af0d0febad164a05e4ae88/frage%2520hub%2520scuba%2520diving'))()
 end
